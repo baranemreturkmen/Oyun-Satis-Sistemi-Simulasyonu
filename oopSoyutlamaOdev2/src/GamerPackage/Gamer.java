@@ -9,7 +9,7 @@ public class Gamer {
 	//bir oyuncu tipinde obje olusturulucaksa eğer bu objeye atama yapılması gerektiğini zorunlu kıldık.
 	//getterlar ile gereken yerlerde ozellikle baska paketlerin altında ozelliklerimin degerlerine erismeyi
 	//Mumkun kıldım. Ben Gamer class'ımın ozelliklerine bu class'ın dısından bu paketin altında direkt olarak
-	//erisebilirim ama baska bir paket altındayken ozelliklerim public olmasına ragmen erisemem. Erismenin tek
+	//erisebilirim ama baska bir paket altındayken ozelliklerime erisemem. Erismenin tek
 	//yolu baska paketin icerisinde hangi class'ın altında bu class'ı kullanacaksam bu class'ı import etmek ve
 	//getterlar ile bu class'ımın ozelliklerine erismek.
 	
